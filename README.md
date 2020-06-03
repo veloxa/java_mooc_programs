@@ -1,1 +1,1 @@
-Authors: Bre
+Authors: Brent 
