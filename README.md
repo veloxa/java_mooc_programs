@@ -1,1 +1,1 @@
-Authors: Brent Bailey and
+Authors: Brent Bailey and 
