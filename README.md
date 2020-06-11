@@ -1,1 +1,1 @@
-Authors: Brent Bailey and Jere
+Authors: Brent Bailey and Jerem
