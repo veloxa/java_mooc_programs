@@ -1,1 +1,1 @@
-Authors: Brent Bailey and Jeremy Gre
+Authors: Brent Bailey and Jeremy Gree
