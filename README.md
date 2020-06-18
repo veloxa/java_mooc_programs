@@ -1,1 +1,1 @@
-Authors: Brent Bailey and Jeremy Greenwo
+Authors: Brent Bailey and Jeremy Greenwoo
