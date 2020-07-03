@@ -1,3 +1,3 @@
 Authors: Brent Bailey and Jeremy Greenwood
 
-Summary: coin_combo.rb ta
+Summary: coin_combo.rb tak
