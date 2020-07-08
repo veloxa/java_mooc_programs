@@ -1,3 +1,3 @@
 Authors: Brent Bailey and Jeremy Greenwood
 
-Summary: coin_combo.rb takes a F
+Summary: coin_combo.rb takes a Fi
