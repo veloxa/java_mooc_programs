@@ -1,3 +1,3 @@
 Authors: Brent Bailey and Jeremy Greenwood
 
-Summary: coin_combo.rb takes a Fix
+Summary: coin_combo.rb takes a Fixnu
