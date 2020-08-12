@@ -1,3 +1,3 @@
 Authors: Brent Bailey and Jeremy Greenwood
 
-Summary: coin_combo.rb takes a Fixnum and tells the user the minimum amount of quarters, nick
+Summary: coin_combo.rb takes a Fixnum and tells the user the minimum amount of quarters, nicke
