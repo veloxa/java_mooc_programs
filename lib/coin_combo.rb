@@ -5,3 +5,4 @@ class Fixnum
     dime_amount = 0
     nickel_amount = 0
     penny_amount = 0
+    counter = self
