@@ -6,3 +6,4 @@ class Fixnum
     nickel_amount = 0
     penny_amount = 0
     counter = self
+    until counter == 0
