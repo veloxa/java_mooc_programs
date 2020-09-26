@@ -7,3 +7,4 @@ class Fixnum
     penny_amount = 0
     counter = self
     until counter == 0
+      if counter >= 25
