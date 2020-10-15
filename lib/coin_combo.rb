@@ -8,3 +8,4 @@ class Fixnum
     counter = self
     until counter == 0
       if counter >= 25
+        while counter >= 25 do
