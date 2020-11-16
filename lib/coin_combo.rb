@@ -9,3 +9,4 @@ class Fixnum
     until counter == 0
       if counter >= 25
         while counter >= 25 do
+          counter = counter - 25
