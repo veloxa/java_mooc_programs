@@ -12,3 +12,5 @@ class Fixnum
           counter = counter - 25
           quarter_amount = quarter_amount + 1
         end
+    elsif counter >= 10
+      while counter >= 10 do
