@@ -15,3 +15,4 @@ class Fixnum
     elsif counter >= 10
       while counter >= 10 do
         counter = counter - 10
+        dime_amount = dime_amount + 1
