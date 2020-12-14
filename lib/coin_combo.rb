@@ -14,3 +14,4 @@ class Fixnum
         end
     elsif counter >= 10
       while counter >= 10 do
+        counter = counter - 10
