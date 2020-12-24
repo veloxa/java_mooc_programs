@@ -18,3 +18,4 @@ class Fixnum
         dime_amount = dime_amount + 1
       end
     elsif counter >= 5
+      while counter >= 5 do
