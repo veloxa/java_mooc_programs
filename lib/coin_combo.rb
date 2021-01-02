@@ -21,3 +21,4 @@ class Fixnum
       while counter >= 5 do
         counter = counter - 5
        nickel_amount = nickel_amount + 1
+     end
