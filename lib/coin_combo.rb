@@ -22,3 +22,4 @@ class Fixnum
         counter = counter - 5
        nickel_amount = nickel_amount + 1
      end
+   else counter >= 1
