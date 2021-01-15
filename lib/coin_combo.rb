@@ -25,3 +25,4 @@ class Fixnum
    else counter >= 1
      while counter >= 1 do
        counter = counter - 1
+       penny_amount = penny_amount + 1
