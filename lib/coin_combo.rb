@@ -27,3 +27,4 @@ class Fixnum
        counter = counter - 1
        penny_amount = penny_amount + 1
      end
+
