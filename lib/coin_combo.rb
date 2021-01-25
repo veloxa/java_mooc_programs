@@ -33,3 +33,4 @@ class Fixnum
   end
     "Your change is #{quarter_amount} quarters, #{dime_amount} dimes, #{nickel_amount} nickels, and #{penny_amount} pennies."
   end
+end
