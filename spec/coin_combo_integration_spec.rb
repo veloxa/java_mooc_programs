@@ -1,1 +1,1 @@
-require('cap
+require('capy
