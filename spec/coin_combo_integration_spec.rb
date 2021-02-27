@@ -1,1 +1,1 @@
-require('capybara/r
+require('capybara/rsp
