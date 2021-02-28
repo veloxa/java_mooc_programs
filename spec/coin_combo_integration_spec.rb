@@ -1,1 +1,1 @@
-require('capybara/rspe
+require('capybara/rspec
