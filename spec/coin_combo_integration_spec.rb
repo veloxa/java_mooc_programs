@@ -1,2 +1,2 @@
 require('capybara/rspec')
-requ
+require
