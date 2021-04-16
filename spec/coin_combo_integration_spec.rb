@@ -1,2 +1,2 @@
 require('capybara/rspec')
-require('./app'
+require('./app')
