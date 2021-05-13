@@ -1,3 +1,3 @@
 require('capybara/rspec')
 require('./app')
-Capybara.app = Sinatra::Applicati
+Capybara.app = Sinatra::Applicatio
