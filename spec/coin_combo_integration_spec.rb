@@ -2,4 +2,4 @@ require('capybara/rspec')
 require('./app')
 Capybara.app = Sinatra::Application
 
-describe('the resu
+describe('the result
