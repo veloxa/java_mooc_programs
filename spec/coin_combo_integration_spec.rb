@@ -3,4 +3,4 @@ require('./app')
 Capybara.app = Sinatra::Application
 
 describe('the result path', {:type => :feature}) do
-  it('processes coin amo
+  it('processes coin amou
