@@ -7,4 +7,4 @@ describe('the result path', {:type => :feature}) do
     visit('/')
     fill_in('input', :with => 55)
     click_button('Send')
-    expect(page).to have_
+    expect(page).to have_c
