@@ -8,4 +8,4 @@ describe('the result path', {:type => :feature}) do
     fill_in('input', :with => 55)
     click_button('Send')
     expect(page).to have_content('2 quarters')
-  
+  e
