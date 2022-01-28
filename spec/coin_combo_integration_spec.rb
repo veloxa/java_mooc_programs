@@ -9,4 +9,4 @@ describe('the result path', {:type => :feature}) do
     click_button('Send')
     expect(page).to have_content('2 quarters')
   end
-e
+en
