@@ -9,3 +9,4 @@ end
 
 it('takes an amount of cents and shows the smallest number of dimes needed to make change') do
   expect(20.coin_combo()).to(include('2 dimes'))
+end
