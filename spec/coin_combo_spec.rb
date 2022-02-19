@@ -14,3 +14,4 @@ end
 it('taskes an amount of cents and show the smallest numbe rof nickels needed to make change') do
   expect(5.coin_combo()).to(include('1 nickel'))
 end
+it ('takes an amount of cents and shows the smallest number of pennies needed to make change') do
