@@ -16,3 +16,4 @@ it('taskes an amount of cents and show the smallest numbe rof nickels needed to 
 end
 it ('takes an amount of cents and shows the smallest number of pennies needed to make change') do
   expect(3.coin_combo()).to(include('3 pennies'))
+end
